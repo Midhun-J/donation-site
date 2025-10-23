@@ -1,0 +1,18 @@
+# Database configuration
+config.php
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
