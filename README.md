@@ -24,7 +24,6 @@ A complete donation website built with PHP, MySQL, and modern web technologies.
 ### 💻 Technical Features
 - ✅ Responsive design
 - ✅ Animated backgrounds
-- ✅ Mouse light effects
 - ✅ Database integration
 - ✅ Session management
 
