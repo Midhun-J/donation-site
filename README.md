@@ -3,7 +3,7 @@
 A complete donation website built with PHP, MySQL, and modern web technologies.
 
 ## 🚀 Live Demo
-[Visit Website]([http://your-ec2-ip](http://54.89.175.64/login.php)) • 
+[Visit Website]([http://your-ec2-ip](http://54.89.175.64/login.php))
 
 ## ✨ Features
 
